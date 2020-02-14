@@ -1,0 +1,12 @@
+#h1 {
+    color:blue;
+}
+#texto {
+    color:firebrick;
+}
+#h1:hover {
+    color:red;
+}
+#texto:hover {
+    color:blue;
+}
